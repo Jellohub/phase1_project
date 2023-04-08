@@ -68,4 +68,6 @@ I recommended that Microsoft prioritize off-screen over on-screen crew, and more
 - zippedData: folder containing the original zipped data files
 - data: folder containing the unzipped data files after notebook scripts run
 - Project_Notebook.ipynb: project notebook containing all data imports, cleanup, analyses, and visualizations
+- presentation.key: my original presentation created with the application Keynote, meant for live use
 - presentation.pdf: a PDF version of my presentation for this project
+- visualizations: a folder with all relevant visualizations from the notebook
