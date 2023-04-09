@@ -63,11 +63,15 @@ This analysis yielded a clear superiority of off-screen crew to on-screen crew.
 
 I recommended that Microsoft prioritize off-screen over on-screen crew, and more specifically, make the director their most important hire. This recommendation helps Microsoft because it helps them prioritize the most important cast members, which improves their chances of creating a successful movie.
 
+# Code Sources
+The only place I copied code from was [the following website](https://www.python-graph-gallery.com/scatterplot-with-regression-fit-in-matplotlib). I copied several lines of code that used a polyfit to plot a regression line on a series of data points. Anywhere this code was used, I referenced the website.
+
 # Repository structure
 
 - zippedData: folder containing the original zipped data files
 - data: folder containing the unzipped data files after notebook scripts run
 - Project_Notebook.ipynb: project notebook containing all data imports, cleanup, analyses, and visualizations
+- Project_Notebook.pdf: PDF version of my notebook
 - presentation.key: my original presentation created with the application Keynote, meant for live use
 - presentation.pdf: a PDF version of my presentation for this project
 - visualizations: a folder with all relevant visualizations from the notebook
